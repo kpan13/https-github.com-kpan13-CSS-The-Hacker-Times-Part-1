@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+body{
+    background-color: rgb(232, 229, 229);
+    background-position: center;
+}
+.newspaper-container{
+    background-color:white;
+    
+    border-radius:20px;
+    box-shadow: 3px 3px 3px 3px rgb(171, 169, 169);
+    width:700px;
+    padding:10px;
+    
+    
+}
+.date{
+    color:gray;
+    margin:22px;
+    font-family:  Source Sans Pro;
+}
+#navbar {
+    list-style:none;
+    border-top: 2px solid rgb(226, 225, 225);
+    border-bottom: 2px solid rgb(226, 225, 225);
+    margin: 40px;
+}  
+ li{
+    list-style-type:none;
+    display:inline;
+    padding: 7px;
+    font-family: Source Sans Pro;
+    text-align: center;
+    
+}
+a{
+    font-size: 12px;
+    text-decoration-line: none;
+    color: gray ;
+    font-weight:bolder;
+    
+ }      
+main{
+    border-bottom:2px solid rgb(226, 225, 225); 
+    margin:2px;
+    padding-bottom: 2px;
+}
+
+h1{
+    font-size:40px;
+    text-align: center;
+    font-family: Abril Fatface;
+    color:black;
+}
+h2{
+    font-size:25px;
+    font-family: Abril Fatface;
+    margin:12px;
+}    
+ h5{
+   color:red;
+   font-family: Abril Fatface;
+   margin:15px;
+}
+main img{
+    width:100%;
+}
+main p{
+    font-family: Source Sans Pro;
+    justify-content: center;
+
+}
+.s1 {
+    display:inline-block;
+    width:290px;
+    height:auto;
+    margin:25px;
+    font-family: Source Sans Pro;
+    
+}
+.s2 {
+    display:inline-block;
+    width:290px;
+    height:auto;
+    margin:20px;
+    font-family: Source Sans Pro;
+    
+}
+h4{
+    font-family: Abril Fatface;
+    font-size: 18px;
+}
+
